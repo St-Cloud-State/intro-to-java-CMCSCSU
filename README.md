@@ -32,5 +32,6 @@ tions from Question 2.
 the appropriate syntax), so that program produces the same output.
 
 
-For this question, I decided to implement [PersonList](Hw1Q3\src\PersonList.java) as a wrapper of [MyMain](Hw1Q3\src\MyMain.java).
+For this question, I decided to implement [PersonList](Hw1Q3/src/PersonList.java) as a wrapper of [MyMain](Hw1Q3/src/MyMain.java).
+
 
